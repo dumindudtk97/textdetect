@@ -1,0 +1,2 @@
+# textdetect
+Text detection python 
