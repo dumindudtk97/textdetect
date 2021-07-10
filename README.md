@@ -1,3 +1,2 @@
 # textdetect
-Text detection python 
-frozen_east_text_detection.pb
+Text detection with python using frozen_east_text_detection.pb
